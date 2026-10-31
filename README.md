@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on: NotesNest<br>👯 Looking to collaborate on: open-source AI agent projects, RAG pipelines, LangGraph workflows<br>🤝 Looking for help with: improving RAG retrieval quality, deploying agents on AWS (Lambda/Bedrock)<br>🌱 Currently learning: PyTorch GNNs, CNNs and deep learning, AWS serverless<br>💬 Ask me about: Python, FastAPI, LangChain/LangGraph, FAISS, building and deploying AI agents<br>⚡ Fun fact: your call, swap in something true for you
+🔭 Currently working on: NotesNest<br>👯 Looking to collaborate on: open-source AI agent projects, RAG pipelines, LangGraph workflows<br>🤝 Looking for help with: improving RAG retrieval quality, deploying agents on AWS (Lambda/Bedrock)<br>🌱 Currently learning: PyTorch GNNs, CNNs and deep learning, AWS serverless<br>💬 Ask me about: Python, FastAPI, LangChain/LangGraph, FAISS, building and deploying AI agents<br>
 
 
 ## 🌐 Socials:

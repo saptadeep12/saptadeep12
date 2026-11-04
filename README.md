@@ -61,22 +61,22 @@ Hello there! I'm **Saptadeep**, a [Your Course/Role] student. I enjoy learning n
 <tr>
 <td width="50%" valign="top">
 
-### [Project One]
-[A personal voice assistance]
+### Denet
+A personal voice assistance
 
 `Next.js` `FastAPI`
 
-[🔗 Repo](https://github.com/saptadeep12/NotesNest)
+[🔗 Repo](https://github.com/saptadeep12/Denet)
 
 </td>
 <td width="50%" valign="top">
 
-### [Project Two]
-[A webapp which is for students of my college course, which holds pyq papers, Notes, faculty details.]
+### NotesNest
+A webapp which is for students of my college course, which holds pyq papers, Notes, faculty details.
 
 `Python` `Langchain`
 
-[🔗 Repo](https://github.com/saptadeep12/Denet)
+[🔗 Repo](https://github.com/saptadeep12/NotesNest)
 
 </td>
 </tr>

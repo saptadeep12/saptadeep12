@@ -90,11 +90,11 @@ Hello there! I'm **Ramya**, a [Your Course/Role] student. I enjoy learning new t
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true&background=000000&ring=C1440E&fire=E27B58&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E27B58&sideLabels=E27B58&dates=9CA3AF" height="170" />
+<img src="https://streak-stats.demolab.com/?user=saptadeep12&hide_border=true&background=000000&ring=C1440E&fire=E27B58&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E27B58&sideLabels=E27B58&dates=9CA3AF" height="170" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake-mars.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/saptadeep12/saptadeep12/output/snake-mars.svg" width="100%" />
 
 </div>
 

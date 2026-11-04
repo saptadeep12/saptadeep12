@@ -16,3 +16,10 @@
 [![](https://komarev.com/ghpvc/?username=saptadeep12&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+## 📊 GitHub Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saptadeep12&bg_color=0d1117&color=79c0ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/YOUR_GITHUB_USERNAME)
+
+</div>

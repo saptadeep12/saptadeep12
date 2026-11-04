@@ -2,12 +2,10 @@
 
 <img src="stary-night.gif" alt="Banner" width="100%" />
 
-# Welcome to Ramya's GitHub `</>`
+# Welcome to Saptadeep's GitHub `</>`
 
-<a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-B7410E?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://codeforces.com/profile/YOUR_HANDLE"><img src="https://img.shields.io/badge/Codeforces-B7410E?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-<a href="https://www.codechef.com/users/YOUR_HANDLE"><img src="https://img.shields.io/badge/CodeChef-B7410E?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-<a href="https://pinterest.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Pinterest-B7410E?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
+<a href="https://linkedin.com/in/saptadeep-debnath"><img src="https://img.shields.io/badge/LinkedIn-B7410E?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/profile/specter28"><img src="https://img.shields.io/badge/Codeforces-B7410E?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 
 </div>
 
@@ -19,9 +17,9 @@
 <tr>
 <td width="70%">
 
-Hello there! I'm **Ramya**, a [Your Course/Role] student. I enjoy learning new technologies and solving problems on [platforms]. Right now I'm working on some little and fun projects to put into practice my knowledge about [your skills].
+Hello there! I'm **Saptadeep**, a [Your Course/Role] student. I enjoy learning new technologies and solving problems on [platforms]. Right now I'm working on some little and fun projects to put into practice my knowledge about [your skills].
 
-- 🎓 Studying at **[Your College]**
+- 🎓 Studying at **[VIT AP]**
 - 👩‍🏫 [Tutor / Club / Role]
 - 🏆 Competitor in [Contest/Event] ([Year])
 - 🔴 [Hobby]
@@ -64,21 +62,21 @@ Hello there! I'm **Ramya**, a [Your Course/Role] student. I enjoy learning new t
 <td width="50%" valign="top">
 
 ### [Project One]
-[One-line description of what it does.]
+[A personal voice assistance]
 
 `Next.js` `FastAPI`
 
-[🔗 Repo](https://github.com/saptadeep12/PROJECT_ONE)
+[🔗 Repo](https://github.com/saptadeep12/NotesNest)
 
 </td>
 <td width="50%" valign="top">
 
 ### [Project Two]
-[One-line description of what it does.]
+[A webapp which is for students of my college course, which holds pyq papers, Notes, faculty details.]
 
-`Python` `R`
+`Python` `Langchain`
 
-[🔗 Repo](https://github.com/saptadeep12/PROJECT_TWO)
+[🔗 Repo](https://github.com/saptadeep12/Denet)
 
 </td>
 </tr>

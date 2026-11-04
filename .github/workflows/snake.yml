@@ -25,8 +25,7 @@ jobs:
           github_user_name: saptadeep12
 
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/snake-mars.svg?color_snake=#ff6a3d&color_dots=#1a0f0a,#5c2410,#8b3a1a,#c1440e,#e27b58&color_dot_border=#000000
 
       - name: Publish generated SVG
         uses: crazy-max/ghaction-github-pages@v3.1.0

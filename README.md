@@ -92,8 +92,7 @@ A webapp which is for students of my college course, which holds pyq papers, Not
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/saptadeep12/saptadeep12/output/snake-mars.svg" width="100%" />
-
+<img src="./profile-3d-contrib/mars.svg" width="100%" />
 </div>
 
 ---

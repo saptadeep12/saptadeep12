@@ -4,8 +4,8 @@
 
 # Welcome to Saptadeep's GitHub `</>`
 
-<a href="https://linkedin.com/in/saptadeep-debnath"><img src="https://img.shields.io/badge/LinkedIn-B7410E?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/profile/specter28"><img src="https://img.shields.io/badge/Codeforces-B7410E?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<a href="https://linkedin.com/in/saptadeep-debnath"><img src="https://img.shields.io/badge/LinkedIn-E63946?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&logoColor=white" /></a>
+<a href="https://leetcode.com/u/specter28/"><img src="https://img.shields.io/badge/LeetCode-E63946?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 
 </div>
 
@@ -17,12 +17,7 @@
 <tr>
 <td width="70%">
 
-Hello there! I'm **Saptadeep**, a [Your Course/Role] student. I enjoy learning new technologies and solving problems on [platforms]. Right now I'm working on some little and fun projects to put into practice my knowledge about [your skills].
-
-- 🎓 Studying at **[VIT AP]**
-- 👩‍🏫 [Tutor / Club / Role]
-- 🏆 Competitor in [Contest/Event] ([Year])
-- 🔴 [Hobby]
+Im working on it :)
 
 </td>
 <td width="30%" align="center">
@@ -38,19 +33,17 @@ Hello there! I'm **Saptadeep**, a [Your Course/Role] student. I enjoy learning n
 <h2 align="center">🛰️ Payload</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-C1440E?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-C1440E?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-C1440E?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-C1440E?style=flat-square&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-C1440E?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-C1440E?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-C1440E?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-C1440E?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-C1440E?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-C1440E?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-C1440E?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-C1440E?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-C1440E?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-A82A3A?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-A82A3A?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-E63946?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-E63946?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-E63946?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-E63946?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-E63946?style=flat-square&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF6B7A?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-FF6B7A?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-FF6B7A?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-FF6B7A?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 <h2 align="center">🚀 Mission Log</h2>

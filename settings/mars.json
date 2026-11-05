@@ -3,12 +3,12 @@
     "type": "normal",
     "fileName": "mars.svg",
     "backgroundColor": "#000000",
-    "foregroundColor": "#e27b58",
-    "strongColor": "#ff6a3d",
-    "weakColor": "#5c2410",
-    "radarColor": "#c1440e",
+    "foregroundColor": "#ff6b7a",
+    "strongColor": "#ff4d5e",
+    "weakColor": "#5a1220",
+    "radarColor": "#e63946",
     "growingAnimation": true,
-    "contribColors": ["#1a0f0a", "#5c2410", "#8b3a1a", "#c1440e", "#ff6a3d"],
+    "contribColors": ["#1a0a0d", "#5a1220", "#a82a3a", "#e63946", "#ff6b7a"],
     "duration": "10s"
   }
 ]

@@ -53,43 +53,54 @@ Hello there! I'm **Saptadeep**, a [Your Course/Role] student. I enjoy learning n
   <img src="https://img.shields.io/badge/MySQL-C1440E?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
----
-
 <h2 align="center">🚀 Mission Log</h2>
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
-### Denet
+<h3>🛰️ Denet</h3>
+
+<code>MISSION 01</code>&nbsp;
+<img src="https://img.shields.io/badge/status-in_orbit-E63946?style=flat-square" />
+
 A personal voice assistance
 
-`Next.js` `FastAPI`
+<img src="https://img.shields.io/badge/Python-A82A3A?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/React-A82A3A?style=flat-square&logo=react&logoColor=white" />
 
-[🔗 Repo](https://github.com/saptadeep12/Denet)
+<img src="https://img.shields.io/github/stars/saptadeep12/REPO_ONE?style=flat-square&color=A82A3A&labelColor=1a0a0d" />
+<img src="https://img.shields.io/github/last-commit/saptadeep12/REPO_ONE?style=flat-square&color=A82A3A&labelColor=1a0a0d" />
+
+<a href="https://github.com/saptadeep12/REPO_ONE"><img src="https://img.shields.io/badge/VIEW_REPO-E63946?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### NotesNest
+<h3>🌕 NotesNest</h3>
+
+<code>MISSION 02</code>&nbsp;
+<img src="https://img.shields.io/badge/status-landed-E63946?style=flat-square" />
+
 A webapp which is for students of my college course, which holds pyq papers, Notes, faculty details.
 
-`Python` `Langchain`
+<img src="https://img.shields.io/badge/Java-A82A3A?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-A82A3A?style=flat-square&logo=mysql&logoColor=white" />
 
-[🔗 Repo](https://github.com/saptadeep12/NotesNest)
+<img src="https://img.shields.io/github/stars/saptadeep12/REPO_TWO?style=flat-square&color=A82A3A&labelColor=1a0a0d" />
+<img src="https://img.shields.io/github/last-commit/saptadeep12/REPO_TWO?style=flat-square&color=A82A3A&labelColor=1a0a0d" />
+
+<a href="https://github.com/saptadeep12/REPO_TWO"><img src="https://img.shields.io/badge/VIEW_REPO-E63946?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
 </table>
 
----
-
 <h2 align="center">📡 Telemetry</h2>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=saptadeep12&hide_border=true&background=000000&ring=C1440E&fire=E27B58&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E27B58&sideLabels=E27B58&dates=9CA3AF" height="170" />
-
+<img src="https://streak-stats.demolab.com/?user=saptadeep12&hide_border=true&background=000000&ring=E63946&fire=FF6B7A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B7A&sideLabels=FF6B7A&dates=9CA3AF" height="170" />
 <br/><br/>
 
 <img src="./profile-3d-contrib/mars.svg" width="100%" />

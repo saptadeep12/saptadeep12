@@ -40,7 +40,6 @@ I open Github to distract me from the horrors of life
   <img src="https://img.shields.io/badge/PyTorch-E63946?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-E63946?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging_Face-E63946?style=flat-square&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF6B7A?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-FF6B7A?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-FF6B7A?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-FF6B7A?style=flat-square&logo=git&logoColor=white" />

@@ -17,7 +17,7 @@
 <tr>
 <td width="70%">
 
-Im working on it :)
+I open Github to distract me from the horrors of life
 
 </td>
 <td width="30%" align="center">
@@ -62,10 +62,10 @@ A personal voice assistance
 <img src="https://img.shields.io/badge/Python-A82A3A?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/React-A82A3A?style=flat-square&logo=react&logoColor=white" />
 
-<img src="https://img.shields.io/github/stars/saptadeep12/REPO_ONE?style=flat-square&color=A82A3A&labelColor=1a0a0d" />
-<img src="https://img.shields.io/github/last-commit/saptadeep12/REPO_ONE?style=flat-square&color=A82A3A&labelColor=1a0a0d" />
+<img src="https://img.shields.io/github/stars/saptadeep12/Denet?style=flat-square&color=A82A3A&labelColor=1a0a0d" />
+<img src="https://img.shields.io/github/last-commit/saptadeep12/Denet?style=flat-square&color=A82A3A&labelColor=1a0a0d" />
 
-<a href="https://github.com/saptadeep12/REPO_ONE"><img src="https://img.shields.io/badge/VIEW_REPO-E63946?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/saptadeep12/Denet"><img src="https://img.shields.io/badge/VIEW_REPO-E63946?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -80,25 +80,18 @@ A webapp which is for students of my college course, which holds pyq papers, Not
 <img src="https://img.shields.io/badge/Java-A82A3A?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-A82A3A?style=flat-square&logo=mysql&logoColor=white" />
 
-<img src="https://img.shields.io/github/stars/saptadeep12/REPO_TWO?style=flat-square&color=A82A3A&labelColor=1a0a0d" />
-<img src="https://img.shields.io/github/last-commit/saptadeep12/REPO_TWO?style=flat-square&color=A82A3A&labelColor=1a0a0d" />
+<img src="https://img.shields.io/github/stars/saptadeep12/NotesNest?style=flat-square&color=A82A3A&labelColor=1a0a0d" />
+<img src="https://img.shields.io/github/last-commit/saptadeep12/NotesNest?style=flat-square&color=A82A3A&labelColor=1a0a0d" />
 
-<a href="https://github.com/saptadeep12/REPO_TWO"><img src="https://img.shields.io/badge/VIEW_REPO-E63946?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/saptadeep12/NotesNest"><img src="https://img.shields.io/badge/VIEW_REPO-E63946?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
 </table>
 
-<h2 align="center">📡 Telemetry</h2>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=saptadeep12&hide_border=true&background=000000&ring=E63946&fire=FF6B7A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B7A&sideLabels=FF6B7A&dates=9CA3AF" height="170" />
-<br/><br/>
+<p align="center"><img src="https://github-readme-stats.shion.dev/api?username=saptadeep12&show_icons=true&hide_border=true&bg_color=000000&title_color=E63946&text_color=FF6B7A&icon_color=E63946&ring_color=E63946" height="180" /></p>
 
 <img src="./profile-3d-contrib/mars.svg" width="100%" />
-</div>
 
----
 
 <p align="center"><i>"Indifferent"</i></p>
